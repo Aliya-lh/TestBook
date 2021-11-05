@@ -9,7 +9,7 @@ public class BookList {
         books[2] = new Book("西游记","吴承恩",100,"小说");
         this.usedSize = 3;
     }
-
+  //我们可以把所有的操作都写到这个类当中 因为每一个操作都是操作books
     public static void main(String[] args) {
 
     }
